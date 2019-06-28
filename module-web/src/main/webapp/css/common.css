@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+	background: #343434;
+	color: #EEEEEE;
+}
+
+a {
+	color: #EEEEEE;
+}
+
+
+#header {
+	margin: 10px;
+}
+
+#header .item {
+	float: left;
+	margin: 5px;
+}
+
+#footer {
+	margin: 10px;
+	text-align: center;
+}
+
+div#menu ul li {
+    list-style-type: none;
+    margin: 10px 10px 10px -20px;
+}
+
+div#menu ul li a {
+	text-decoration: none;
+    font-size: 1em;
+}
+
+#menu ul li a:hover {
+	color: aqua;
+}
+
